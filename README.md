@@ -59,12 +59,12 @@ Choose a character (*, #, $, %, @, !, &, ^, ~, etc.): ~
 ~         ~
 ══════════════════════════════════════════════════
 ``` 
-See the [LICENSE](LICENSE) file for details.
+
 ## 📄 License:
 <br>
 This project is licensed under the MIT License.  
 <br>
-
+See the [LICENSE](LICENSE) file for details.
 <br>
 
 ## THANK YOU
