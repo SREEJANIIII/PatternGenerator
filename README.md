@@ -8,7 +8,6 @@ Run the Pattern Generator instantly 👉 [**Try on Replit!**]----https://replit.
 ## 📌 Features:
 
 ✔️ Generates multiple patterns (hollow diamond, hollow heart with text inside, butterflies, etc.)  
-
 ✔️ Customization available
 
 ✔️ Beginner-friendly Java code  
