@@ -68,6 +68,6 @@ I’d love to collaborate! 💛
 If you’d like to add new patterns, fix bugs, or improve this project, please open an Issue or Pull Request.  
 All ideas are welcome!
 
-## 🙏 THANK YOU
+## 🙏 Thank you
 Made with ❤️ by Sreejani Bhattacharya.
 
