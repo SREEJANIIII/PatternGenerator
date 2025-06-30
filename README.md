@@ -9,9 +9,13 @@ Run the Pattern Generator instantly 👉 [**Try on Replit!**](https://replit.com
 ## 📌 Features
 
 ✔️ Generates multiple patterns (hollow diamond, hollow heart with text inside, butterflies, etc.)  
+
 ✔️ Customization available
+
 ✔️ Beginner-friendly Java code  
+
 ✔️ Runs on any system
+
 ✔️ Eye-catching console.
 
 ## ✨ Sample Output 1
@@ -64,6 +68,6 @@ I’d love to collaborate! 💛
 If you’d like to add new patterns, fix bugs, or improve this project, please open an Issue or Pull Request.  
 All ideas are welcome!
 
-## 🙏THANK YOU
+## 🙏 THANK YOU
 Made with ❤️ by Sreejani Bhattacharya.
 
