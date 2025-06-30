@@ -11,31 +11,54 @@ Run the Pattern Generator instantly 👉 [**Try on Replit!**]----https://replit.
 <br>
 ✔️ Generates multiple patterns (hollow diamond, hollow heart with text inside, butterflies, etc.)  
 <br>
+✔️ Customization available
+<br>
 ✔️ Beginner-friendly Java code  
 <br>
 ✔️ Runs on any system
 <br>
 ✔️ Eye-catching console.
 <br>
-## ✨ Sample Output:
+## ✨ Sample Output 1:
 
 ```
+Choose a character (*, #, $, %, @, !, &, ^, ~, etc.): ^
 ══════════════════════════════════════════════════
 Enter the statement (exactly 7 characters):       
 LOVEE U
-  * *   * *        
- *   * *   *       
-*     *     *      
-*  LOVEE U  *      
-*           *      
- *         *       
-  *       *        
-   *     *
-    *   *
-     * *
-      *
+  ^ ^   ^ ^        
+ ^   ^ ^   ^       
+^     ^     ^      
+^  LOVEE U  ^      
+^           ^      
+ ^         ^       
+  ^       ^        
+   ^     ^
+    ^   ^
+     ^ ^
+      ^
 ══════════════════════════════════════════════════
 ```
+
+
+## ✨ Sample Output 2:
+
+```
+Choose a character (*, #, $, %, @, !, &, ^, ~, etc.): ~
+══════════════════════════════════════════════════ 
+~         ~
+~~      ~ ~
+~ ~    ~  ~
+~  ~  ~   ~
+~   ~~    ~
+~   ~~    ~
+~  ~  ~   ~
+~ ~    ~  ~
+~~      ~ ~
+~         ~
+══════════════════════════════════════════════════
+``` 
+
 
 Made with ❤️ by Sreejani Bhattacharya.
 
