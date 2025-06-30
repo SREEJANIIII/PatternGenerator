@@ -18,6 +18,7 @@ Run the Pattern Generator instantly 👉 [**Try on Replit!**]----https://replit.
 ✔️ Eye-catching console.
 <br>
 ## ✨ Sample Output:
+
 ```
 ══════════════════════════════════════════════════
 Enter the statement (exactly 7 characters):       
@@ -35,5 +36,6 @@ LOVEE U
       *
 ══════════════════════════════════════════════════
 ```
+
 Made with ❤️ by Sreejani Bhattacharya.
 
