@@ -4,9 +4,8 @@ This is my first repository on github.
 This is a simple **Java console application** that generates various text-based patterns such as hearts, butterflies, diamonds, hourglasses, and more✨.
 
 ## 🚀 Try it Online
-Run the Pattern Generator instantly 👉 [**Try on Replit!**](https://replit.com/@bhattacharyasre/PatternGenerator#PatternGenerator.java)
-
-## 📌 Features
+Run the Pattern Generator instantly 👉 [**Try on Replit!**](
+## 📌 Featureshttps://replit.com/@bhattacharyasre/PatternGenerator)
 
 ✔️ Generates multiple patterns (hollow diamond, hollow heart with text inside, butterflies, etc.)  
 
