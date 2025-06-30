@@ -68,6 +68,14 @@ This project is licensed under the MIT License.
 See the [LICENSE](LICENSE) file for details.
 <br>
 
+## 🤝 Contributing:
+<br>
+I’d love to collaborate! 💛  
+<br>
+If you’d like to add new patterns, fix bugs, or improve this project, please open an Issue or Pull Request.  
+<br>
+All ideas are welcome!
+
 ## THANK YOU
 Made with ❤️ by Sreejani Bhattacharya.
 
