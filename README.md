@@ -64,6 +64,7 @@ Choose a character (*, #, $, %, @, !, &, ^, ~, etc.): ~
 <br>
 This project is licensed under the MIT License.  
 <br>
+
 See the [LICENSE](LICENSE) file for details.
 <br>
 
