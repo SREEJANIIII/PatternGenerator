@@ -1,4 +1,4 @@
-# 🎨 Pattern Generator
+# 🎨 Pattern Generator | Open for contributions! ✨
 <br>
 This is my first repository on github. 
 <br>
