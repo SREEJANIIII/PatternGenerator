@@ -59,6 +59,11 @@ Choose a character (*, #, $, %, @, !, &, ^, ~, etc.): ~
 ══════════════════════════════════════════════════
 ``` 
 
-
+## 📄 License:
+<br>
+This project is licensed under the MIT License.  
+<br>
+See the [LICENSE](LICENSE) file for details.
+<br>
 Made with ❤️ by Sreejani Bhattacharya.
 
