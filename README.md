@@ -9,11 +9,8 @@ Run the Pattern Generator instantly 👉 [**Try on Replit!**]----https://replit.
 
 ✔️ Generates multiple patterns (hollow diamond, hollow heart with text inside, butterflies, etc.)  
 ✔️ Customization available
-
 ✔️ Beginner-friendly Java code  
-
 ✔️ Runs on any system
-
 ✔️ Eye-catching console.
 
 ## ✨ Sample Output 1:
@@ -58,7 +55,6 @@ Choose a character (*, #, $, %, @, !, &, ^, ~, etc.): ~
 
 ## 📄 License:
 This project is licensed under the MIT License.  
-
 See the [LICENSE](LICENSE) file for details.
 
 
