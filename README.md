@@ -19,6 +19,7 @@ Run the Pattern Generator instantly 👉 [**Try on Replit!**]----https://replit.
 <br>
 ✔️ Eye-catching console.
 <br>
+
 ## ✨ Sample Output 1:
 
 ```
@@ -63,7 +64,9 @@ Choose a character (*, #, $, %, @, !, &, ^, ~, etc.): ~
 <br>
 This project is licensed under the MIT License.  
 <br>
-See the [LICENSE](LICENSE) file for details.
+See the [LICENSE] file for details.
 <br>
+
+## THANK YOU
 Made with ❤️ by Sreejani Bhattacharya.
 
