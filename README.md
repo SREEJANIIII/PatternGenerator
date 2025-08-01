@@ -7,6 +7,11 @@ All logics built by me!
 
 ## 🚀 Try it Online
 Run the Pattern Generator instantly 👉 [**Try on Replit!**](https://replit.com/@bhattacharyasre/PatternGenerator)
+
+## 📁 Main Code File
+
+➡️ [Click here to view `Main.java`]()
+
 ## 📌 Features
 
 ✔️ Generates multiple patterns (hollow diamond, hollow heart with text inside, butterflies, etc.)  
