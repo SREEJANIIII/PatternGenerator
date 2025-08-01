@@ -75,6 +75,7 @@ If you’d like to add new patterns, fix bugs, or improve this project, please o
 All ideas are welcome!
 
 ## 🙏 Thank you
-Do give a star!
+If you liked this project, please consider giving it a ⭐ on GitHub — it really helps and means a lot! 😊
+
 Made with ❤️ by Sreejani Bhattacharya.
 
