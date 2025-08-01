@@ -10,7 +10,7 @@ Run the Pattern Generator instantly 👉 [**Try on Replit!**](https://replit.com
 
 ## 📁 Main Code File
 
-➡️ [Click here to view `Main.java`]()
+➡️ [Click here to view `Main.java`](https://github.com/SREEJANIIII/PatternGenerator/blob/main/Main.java)
 
 ## 📌 Features
 
